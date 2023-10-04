@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kak_sbejatb", "kak_sbejatb\kak_sbejatb.csproj", "{B05E80ED-98E4-4006-BAE9-4FFD09771A8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05E80ED-98E4-4006-BAE9-4FFD09771A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05E80ED-98E4-4006-BAE9-4FFD09771A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05E80ED-98E4-4006-BAE9-4FFD09771A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05E80ED-98E4-4006-BAE9-4FFD09771A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8DE06E7-0C81-478F-929A-55FE0A6362D2}
+	EndGlobalSection
+EndGlobal
